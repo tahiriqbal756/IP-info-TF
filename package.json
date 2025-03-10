@@ -1,0 +1,18 @@
+{
+  "name": "hacker-tf-ip-api",
+  "version": "1.0.0",
+  "description": "IP info by HACKER TF",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "HACKER TF",
+  "license": "ISC"
+}
